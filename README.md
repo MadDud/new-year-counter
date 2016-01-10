@@ -1,6 +1,6 @@
 # New Year Counter
 
-A simple counter, which displays remaining second until defined date
+A simple counter written in Bash, which displays remaining second until defined date.
 
 Change YEAR vaulable to desired year,
 
